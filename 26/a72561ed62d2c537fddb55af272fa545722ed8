@@ -1,0 +1,22 @@
+src/ALabel.cpp
+  h_88f93c8f0f7def 312,320,325,327
+src/AModule.cpp
+  h_88f93c8f0f7def 199,206-208,212-216,220,226,243-246,248,250,253,276
+src/group.cpp
+  h_88f93c8f0f7def 208
+src/modules/inhibitor.cpp
+  h_88f93c8f0f7def 153,167,170
+src/modules/user.cpp
+  h_88f93c8f0f7def 48,50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "26a72561ed62d2c537fddb55af272fa545722ed8",
+  "prompts": {},
+  "humans": {
+    "h_88f93c8f0f7def": {
+      "author": "Miká Juznik <77588816+miju04@users.noreply.github.com>"
+    }
+  }
+}
